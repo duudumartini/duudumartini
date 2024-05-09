@@ -40,7 +40,6 @@
   <img align="center" alt="Fab-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fab-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Fab-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Fab-MyAthus" height="40" width="160" src="http://myathus.com/wp-content/uploads/2023/01/salvarAtivo-1@512x0987-1024x246.png">
            
            
 </div>
