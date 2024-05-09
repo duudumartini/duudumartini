@@ -25,18 +25,15 @@
 ```
 
 <p align="center">
- <a href="https://chirags-portfolio.vercel.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
  <a href="https://www.linkedin.com/in/chirag-jain-77aa30148/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
         <!-- <a href="https://dev.to/chiragjain307" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="chirag" />
  </a> -->
- <a href="https://twitter.com/mr_kasliwal" target="_blank">
+       <!--<a href="https://twitter.com/mr_kasliwal" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
+ </a>-->
  <a href="https://www.instagram.com/_mr_kasliwal_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
