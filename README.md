@@ -46,7 +46,7 @@
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,html,css,vscode,c#,git,js,postman,cs,mysql,github,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=firebase,html,css,vscode,arduino,cs,dotnet,git,js,postman,cs,mysql,github,vscode,visualstudio,windows,ps,py,sklearn,unity,vscode" 
 
  </p>
 <hr>
