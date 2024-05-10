@@ -25,7 +25,7 @@
 ```
 
 <p align="center">
- <a href="https://www.linkedin.com/in/chirag-jain-77aa30148/" target="_blank">
+ <a href="https://www.linkedin.com/in/eduardodmartini/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
         <!-- <a href="https://dev.to/chiragjain307" target="_blank">
