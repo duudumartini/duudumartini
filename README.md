@@ -17,7 +17,7 @@
 👤 Name: Eduardo Deon Martini;
 📚 Schooling: Studying 'software engineering' at Uniasselvi;
 📍 Living: Itajaí - SC, Brazil;
-💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst;
+💼 Work: RPA Developer and Business Analyst at BRF S.A;
 📧 Contact: sr.eduardomartini@gmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
