@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=200&color=61cbff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Eduardo+Martini!" alt="Eduardo Martini" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=200&color=61cbff&size=35&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo(a)+!+%F0%9F%91%8B+;+Ao+meu+Github+Eduardo+Martini!" alt="Eduardo Martini" /></a>
     </h1>
-<h3 align="center">| Software Engineer 🌐🛠️|</h3>
+<h3 align="center">| Engenheiro de Software 🌐🛠️|</h3>
 
 
 <div align="center" style="display: block;">
@@ -14,11 +14,12 @@
 
 <!-- Intro  -->
 ```yaml
-👤 Name: Eduardo Deon Martini;
-📚 Schooling: Studying 'software engineering' at Uniasselvi;
-📍 Living: Itajaí - SC, Brazil;
-💼 Work: RPA Developer and Business Analyst at BRF S.A;
-📧 Contact: sr.eduardomartini@gmail.com
+👤 Eduardo Deon Martini;
+📚 Estudante de Engenharia de Software
+📍 Itajaí - SC, Brasil;
+💼 Trabalho: Analista de Desenvolvimento Pleno na BRF S.A;
+💼 Fundador: www.portalanimalia.com.br
+📧 Contato: sr.eduardomartini@gmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
@@ -44,7 +45,7 @@
 <br />
 
 <hr>
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<h3 align="center" > 🚀 Linguagens - Frameworks - Ferramentas - Bibliotecas - Workspace 🚀</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=firebase,html,css,vscode,arduino,cs,dotnet,git,js,postman,cs,mysql,github,vscode,visualstudio,windows,ps,py,sklearn,unity,vscode" 
 
